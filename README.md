@@ -1,4 +1,10 @@
+# Presentation
+I'm Elder Morales Cristobal, graduated Physics and Mathematics from Escuela Superior de Física y Matemáticas (ESFM) - Instituto Politécnico Nacional (IPN).
+
+I put my knowledge and skills acquired through courses and university into projects that help to understand, use and give value to data using R, Python and SQL.
+
 # Data Analyst Projects
+
 Personal projects made with R 
  |  Title   |   Description   |Format |
  |----------|-----------------|--------|
